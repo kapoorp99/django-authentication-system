@@ -1,0 +1,1 @@
+web gunicorn djangoAUTHapi.wsgi:application --log-file -
